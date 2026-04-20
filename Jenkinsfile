@@ -1,4 +1,4 @@
-@Library('iar-shared-lib') _
+@Library('shared-lib') _
 
 cppPipeline(
     image: 'stringutils',
